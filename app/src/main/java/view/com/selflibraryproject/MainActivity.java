@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         {
            System.out.println("RssFeed title="+ rssItemsList.get(i).getTitle());
             System.out.println("RssFeed link="+ rssItemsList.get(i).getLink());
+            System.out.println("check");
         }
     }
 }
